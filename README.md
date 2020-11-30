@@ -22,7 +22,7 @@
   - 네트워크 기초 및 WireShark를 활용한 패킷 분석
 + 호남정보보호 연구회 [청년 인재 양성을 위한 대학•고교 연계 정보보호 집중교육과정] 참여
   - 광주SW마이스터 고등학교 웹해킹 및 네트워크 해킹 특강
-<img src='https://github.com/khj0209/portfolio/blob/main/image/%EA%B0%90%EC%82%AC%EC%9E%A5.jpg' width="200">
+<img src='https://github.com/khj0209/portfolio/blob/main/image/%EA%B0%90%EC%82%AC%EC%9E%A5.jpg' width="160">
 
 
 ### 교육 수료
@@ -61,6 +61,10 @@
   - Django Rest Framework + React js
   - elasticsearch
   - scrapy
+  
+<img src='https://github.com/khj0209/portfolio/blob/main/image/NewsFlow%20UX%20%EC%84%A4%EA%B3%84.JPG' width='500'>
+
+<NewsFlow UX 설계 >
 
 ### 참여
 + 2016 CodeGate CTF 대학생부 참가
