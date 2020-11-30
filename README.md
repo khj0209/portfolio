@@ -20,6 +20,9 @@
 + 동아리 신입생 교육 진행
   - 웹 해킹 CTF 문제풀이 (webhacking.kr)
   - 네트워크 기초 및 WireShark를 활용한 패킷 분석
++ 전북대학교 운영체제연구실 학부연구생(2018 ~ )
+  - JCloud-devops
+  - 클라우드 보안 연구
 + 호남정보보호 연구회 [청년 인재 양성을 위한 대학•고교 연계 정보보호 집중교육과정] 참여
   - 광주SW마이스터 고등학교 웹해킹 및 네트워크 해킹 특강
 <img src='https://github.com/khj0209/portfolio/blob/main/image/%EA%B0%90%EC%82%AC%EC%9E%A5.jpg' width="160">
