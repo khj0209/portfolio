@@ -47,7 +47,7 @@
 + 웹캠을 활용한 노트북 보안 프로그램 개발
   - MFC
   - OpenCV
-+ 공개된 웹 플랫폼 소스코드에 존재하는 중요정보 분석 및 탐지 도구 개발 [링크]()
++ 공개된 웹 플랫폼 소스코드에 존재하는 중요정보 분석 및 탐지 도구 개발 [링크](https://gitlab.com/gaegom0209/gitdefender)
   - Django Rest Framework + React js
   - Azure
 + 전북대학교 클라우드 서비스 J-Cloud 운영 및 업데이트 [링크](https://jcloud-devops.github.io/index.html)
