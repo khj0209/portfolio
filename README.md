@@ -55,6 +55,10 @@
 + 교내 프로그래밍 과제 표절방지 모니터링 시스템 Couch 개발 [링크](https://github.com/hyunchan-park/Couch)
   - shell 프로그램
 + 뉴스검색 시스템 NewsFlow 개발 진행중
+  - AWS Architecture
+  - Django Rest Framework + React js
+  - elasticsearch
+  - scrapy
 
 ### 참여
 + 2016 CodeGate CTF 대학생부 참가
