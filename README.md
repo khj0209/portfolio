@@ -22,6 +22,8 @@
   - 네트워크 기초 및 WireShark를 활용한 패킷 분석
 + 호남정보보호 연구회 [청년 인재 양성을 위한 대학•고교 연계 정보보호 집중교육과정] 참여
   - 광주SW마이스터 고등학교 웹해킹 및 네트워크 해킹 특강
+<img src='https://github.com/khj0209/portfolio/blob/main/image/%EA%B0%90%EC%82%AC%EC%9E%A5.jpg' width="200">
+
 
 ### 교육 수료
 + 한국인터넷진흥원 모의해킹 및 시큐어 코딩
@@ -29,12 +31,15 @@
 + 한국인터넷진흥원 시스템 해킹 및 브라우저 익스플로잇
 + 한국정보기술연구원 KITRI 차세대 보안리더 BoB 8기 보안제품개발 트랙 교육 수료
 
+<img src='https://github.com/khj0209/portfolio/blob/main/image/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%20%EB%B0%8F%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%94%A9%20%EC%88%98%EB%A3%8C%EC%A6%9D.PNG' width="200"><img src='https://github.com/khj0209/portfolio/blob/main/image/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EB%B0%8F%20%EB%84%A4%ED%8A%B8%EC%9B%A4%20%EB%B3%B4%EC%95%88%20%EA%B8%B0%EC%B4%88%20%EC%8B%A4%EC%8A%B5%20%EC%88%98%EB%A3%8C%EC%A6%9D.PNG' width="200"><img src='https://github.com/khj0209/portfolio/blob/main/image/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%95%B4%ED%82%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%9D%B5%EC%8A%A4%ED%94%8C%EB%A1%9C%EC%9E%87%20%EC%8B%A4%EC%8A%B5%20%EC%88%98%EB%A3%8C%EC%A6%9D.PNG' width="200">
+
+
 ### 경력
 + 국립과학수사연구원 디지털과 연구보조원
   - 이미지 분석 프로그램 개발 (사용언어 : C#)
 
 ### 수상
-+ 제6회 아이디어 해커톤 대상(전북대학교 총장상)
++ 제6회 아이디어 해커톤 대상(전북대학교 총장상)[링크](https://github.com/khj0209/Floating-Population-Analyze)
   - 유동인구 분석을 위한 개인정보 비식별화 CCTV 개발
     - OpenCV + Yolo
     - elasticsearch + kibana
